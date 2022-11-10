@@ -1,0 +1,5 @@
+int main(){
+    char* str1 = "Hello world", *str2 = "This is a test.;
+    char a;
+    return 0;
+}

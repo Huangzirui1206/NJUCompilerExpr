@@ -1,0 +1,6 @@
+int main(){
+    char* str1 = "Hello world", *str2 = "This is a test.";
+    char c = 'a';
+    printf("test: %s\n%s\n%c\n", str1, str2, c);
+    return 0;
+}

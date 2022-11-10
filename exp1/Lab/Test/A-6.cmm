@@ -1,0 +1,4 @@
+struct Car {
+  int color;
+  float weight;
+};
