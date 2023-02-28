@@ -1,0 +1,5 @@
+FUNCTION main :
+v6 := v2 + v3
+v1 := v6
+RETURN v1
+

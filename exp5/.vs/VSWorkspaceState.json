@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\IR_optimize"
+  ],
+  "SelectedNode": "\\src\\IR_optimize\\available_expressions_analysis.c",
+  "PreviewInSolutionExplorer": false
+}

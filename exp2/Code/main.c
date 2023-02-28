@@ -24,7 +24,6 @@ int main(int argc, char** argv){
     yyparse();
     if(!lexError && !syntaxError){
         table = initTable(root);
-        //printSyntaxTree(root, 0);
         traverseTree(root);
         deleteTable(table);
     }
